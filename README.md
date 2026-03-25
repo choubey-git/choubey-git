@@ -4,11 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+Web+Apps;Exploring+AI+%26+LLMs;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=choubey-git&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
