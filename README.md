@@ -67,7 +67,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choubey-git&layout=compact&theme=tokyonight" />
 </p>
----
 
 ## 🐍 Contribution Snake
 
