@@ -11,20 +11,21 @@
 
 ## 📬 Contact Me
 
-<a href="https://www.linkedin.com/in/priyanshu-choubey-322061296" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-choubey-322061296">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
   
-  <a href="https://instagram.com/priyanshuchoubey21" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/priyanshuchoubey21">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
   
   <a href="mailto:choubeypriyanshu2110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
-
-  <a href="https://leetcode.com/u/PRIYANSHU_CHOUBEY/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  
+  <a href="https://leetcode.com/u/PRIYANSHU_CHOUBEY/">
+    <img src="https://cdn.simpleicons.org/leetcode" height="50"/>
   </a>
 </p>
 
