@@ -68,6 +68,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choubey-git&layout=compact&theme=tokyonight" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/choubey-git/choubey-git/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ## 📈 Contribution Philosophy
