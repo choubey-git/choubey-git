@@ -5,11 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+Web+Apps;Exploring+AI+%26+LLMs;Open+Source+Contributor;Consistent+Learner&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=choubey-git&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-## 📬 Contact Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshu-choubey-322061296">
